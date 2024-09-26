@@ -67,7 +67,7 @@ Start the Redis and MongoDB services on your system and run `yarn start-server` 
 
 # Contributors
 
-+ Peter Kwesi Obrempong Stephenson<https://github.com/Obrempong12/>
++ Peter Kwesi Obrempong Stephenson <https://github.com/Obrempong12/>
 ---
 
 ## License
